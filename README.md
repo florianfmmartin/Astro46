@@ -3,7 +3,7 @@
 
 ### Case Making
 
-### [Soldering](Soldering)
+### [Soldering](Soldering.md)
 
 ### Firmware Setup
 
