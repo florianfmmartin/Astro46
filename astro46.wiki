@@ -1,0 +1,10 @@
+= My Custom Handwired Astro46 Keyboard Project =
+
+== Case Making ==
+
+== [[Soldering]] ==
+
+== Firmware Setup ==
+
+== Custom Layout (FR) ==
+
