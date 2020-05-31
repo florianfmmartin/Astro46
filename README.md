@@ -1,5 +1,5 @@
 # My Custom Hand Wired Keyboard Project
-## _Astro46_
+# _Astro46_
 
 ### Case Making
 
