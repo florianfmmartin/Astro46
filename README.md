@@ -33,6 +33,27 @@ so I went with some blank DSA also from AliExpress.
 
 ![Keycaps](photos/keycaps.jpg)
 
+## Preparation Before Soldering
+
+From now on, I mostly follow [this](https://www.youtube.com/watch?v=zY2k75eWrLQ)
+tutorial. So, I before taking out my soldering
+iron I glued the switches in place as I had
+some holes that were looser. I then put the
+keycaps on the switches to provide a smoother
+and more leveled surface for my plank to
+be turned upside down on. I finishes the
+preparation by bending my diodes in a similar manner as the tutorial proposes.
+
+Here's what it looks like.
+
+![Switches in place](photos/case_switch_flat.jpg)
+
+![Hot glue](photos/hot_glue.jpg)
+
+![Keys flat](photos/case_keys_flat.jpg)
+
+![Keys side](photos/case_keys_side.jpg)
+
 ## Soldering
 
 ## Firmware Setup
