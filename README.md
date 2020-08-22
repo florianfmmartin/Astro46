@@ -56,6 +56,21 @@ Here's what it looks like.
 
 ## Soldering
 
+I then moved on to soldering. The first things
+to solder are the diodes that were bent.
+The diodes form the rows of the switches
+matrix. And so after soldering all the diodes this is what it looks like.
+
+![Diodes in](photos/diodes.jpg)
+
+After the diodes comes some simple wire which
+are going to be the columns of the matrix. After that here is how it looks.
+
+![Colmuns](photos/)
+
+The final soldering part is to solder the
+rows and columns to the micro controller.
+
 ## Firmware Setup
 
 ## Layout (French)
