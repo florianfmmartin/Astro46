@@ -63,10 +63,11 @@ matrix. And so after soldering all the diodes this is what it looks like.
 
 ![Diodes in](photos/diodes.jpg)
 
-After the diodes comes some simple wire which
-are going to be the columns of the matrix. After that here is how it looks.
+After the diodes were soldered, I put some
+hot glue on top of it to isolate them. I
+then proceeded to solder some simple wires to the columns of the matrix.
 
-![Colmuns](photos/)
+![Colmuns](photos/columns.jpg)
 
 The final soldering part is to solder the
 rows and columns to the micro controller.
