@@ -35,7 +35,8 @@ so I went with some blank DSA also from AliExpress.
 
 ## Preparation Before Soldering
 
-From now on, I mostly follow [this](https://www.youtube.com/watch?v=zY2k75eWrLQ)
+From now on, I mostly follow
+[this](https://www.youtube.com/watch?v=zY2k75eWrLQ)
 tutorial. So, I before taking out my soldering
 iron I glued the switches in place as I had
 some holes that were looser. I then put the
@@ -68,6 +69,12 @@ hot glue on top of it to isolate them. I
 then proceeded to solder some simple wires to the columns of the matrix.
 
 ![Colmuns](photos/columns.jpg)
+
+To finish the wiring of the switch matrix, I had to solder the rows from the two halves together. I did so by running one long wire per row into a shoe lace.
+
+![Left lace](photos/left_row_lace.jpg)
+![Right lace](photos/right_row_lace.jpg)
+![Both lace](photos/both_lace.jpg)
 
 The final soldering part is to solder the
 rows and columns to the micro controller.
