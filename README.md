@@ -79,6 +79,11 @@ To finish the wiring of the switch matrix, I had to solder the rows from the two
 The final soldering part is to solder the
 rows and columns to the micro controller.
 
+I will put the micro controller in the left hand, so I have to send the rows of the right hand to the left hand first. I did so the same way as the last step, through a lace.
+
+![Lace](photos/fil_focus.jpg)
+![Lace wire](photos/fil_tape.jpg)
+
 ## Firmware Setup
 
 ## Layout (French)
