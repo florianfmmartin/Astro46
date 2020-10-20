@@ -76,9 +76,13 @@ To finish the case, I glued some wooden sticks to the edge of the top plate, glu
 
 To make the firmware I pasted the raw ouput of the layout I had previously made with KLE in a keyboard firmware [builder](https://kbfirmware.com/). I filled out all the information necessasry and downloaded the firmware made. I then proceeded to compile and flash the firmware to the pro micro with the qmk-cli. I followed [this](https://beta.docs.qmk.fm/using-qmk/guides/keyboard-building/hand_wire) QMK tutorial for the flashing of the board, which is also a all around good tutorial to follow for building your own handwired keyboard. I did all this using a kind of default layout which really did not fit me but was enough to test that everything was working.
 
-## Layout (French)
+## Keymap (French)
 
-This next part is about making a layout which fits my need and may be continually modified as I continue using this keyboard. As it's a layout for french, the following will be written in french ~~so~~ as it's easier for my brain.
+This next part is about making a keymap/layout which fits my need and may be continually modified as I continue using this keyboard. As it's a layout for french, the following will be written in french as it's easier for my brain.
 
-Alors,
+Pour commencer, voici les layers utilisés:
+
+![Default layer](photos/default_layer.png)
+![Numbers layer](photos/numbers_layer.png)
+![Func layer](photos/func_layer.png)
 
