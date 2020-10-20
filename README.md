@@ -78,11 +78,13 @@ To make the firmware I pasted the raw ouput of the layout I had previously made 
 
 ## Keymap (French)
 
-This next part is about making a keymap/layout which fits my need and may be continually modified as I continue using this keyboard. As it's a layout for french, the following will be written in french as it's easier for my brain.
-
-Pour commencer, voici les layers utilisés:
+My first layout looks something like this and I will update this README if I ever changer layout.
 
 ![Default layer](photos/default_layer.png)
 ![Numbers layer](photos/numbers_layer.png)
 ![Func layer](photos/func_layer.png)
+
+## Questions?
+
+If you have any questions about the process feel free to ask me!
 
